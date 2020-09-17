@@ -7,4 +7,4 @@ https://arsandbox.ucdavis.edu/
 # Open Source Libraries
 Sandbox 3D uses the following libraries:
  - Java for Kinect (J4K) Java Library by the University of Florida Digital Worlds Institute | [link](https://research.dwi.ufl.edu/ufdw/j4k/)
-- OpenCV | [link] (https://opencv.org/)
+- OpenCV | [link](https://opencv.org/)
